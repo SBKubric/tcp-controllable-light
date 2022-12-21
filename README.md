@@ -1,2 +1,2 @@
-# tcp-lantern
-A simple app, that allows remote controlling of device (lantern) by TCP.
+# tcp-controllable-light
+A simple app, that allows remote controlling of device (light) by TCP.
